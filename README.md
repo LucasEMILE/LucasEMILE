@@ -7,9 +7,8 @@ Cette page est un aperçu de mes projets et de mes compétences techniques.
 ### Si vous souhaitez me contacter 💌
 vous pouvez [m'envoyer un mail](mailto:lucas.emile.pro@gmail.com).
 #### Vous pouvez aussi 
-[Télécharger mon CV](https://lucas-emile.fr/CV_EMILE_Lucas.pdf), pour en découvrir plus
-#### ou bien
-Vous rendre sur mon profil [LinkedIn](https://www.linkedin.com/in/lucasemile/).
+[Télécharger mon CV](https://lucas-emile.fr/CV_EMILE_Lucas.pdf), pour en découvrir plus.
+Ou encore vous rendre sur mon profil [LinkedIn](https://www.linkedin.com/in/lucasemile/).
 
 
 <!--
