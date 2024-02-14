@@ -3,13 +3,12 @@
 ### 🔭 Je suis alternant au sein de l'entreprise Pest Avenue sur les Pennes Mirabeau afin de valider mon Bac +2 à l'école Web@cademy d'Epitech Marseille !
 Je suis ravi de vous présenter ma page GitHub, qui reflète mon parcours en tant que Développeur Web.
 Cette page est un aperçu de mes projets et de mes compétences techniques.
-Vous pouvez retrouver un lien vers mon LinkedIn ainsi que mon Portfolio sur mon profil.
 
 ### Si vous souhaitez me contacter 💌
 vous pouvez [m'envoyer un mail](mailto:lucas.emile.pro@gmail.com).
 ### Vous pouvez aussi 
 [Télécharger mon CV](https://lucas-emile.fr/CV_EMILE_Lucas.pdf), pour en découvrir plus
-ou bien vous rendre sur mon profil [LinkedIn](https://www.linkedin.com/in/lucasemile/)
+ou bien vous rendre sur mon profil [LinkedIn](https://www.linkedin.com/in/lucasemile/).
 
 
 <!--
